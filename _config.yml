@@ -22,7 +22,7 @@ repository               : "/arash-am.github.io/Arash-Amini.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "arash.jpg"
+  avatar           : "Arash.jpg"
   name             : "Arash Amini"
   bio              : "Postdoctoral Associate at Center of Autonomy"
   location         : "Austin, TX"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # amini-arash
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
